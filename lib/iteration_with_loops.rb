@@ -7,4 +7,5 @@ def find_min_in_nested_arrays(src)
     minimum_array.push(src[i].min)
   i += 1
 end
+minimum_array
 end
