@@ -5,4 +5,5 @@ def find_min_in_nested_arrays(src)
   i = 0
   while i < src.length do
     minimum_array.push(src[i].min)
+    
 end
